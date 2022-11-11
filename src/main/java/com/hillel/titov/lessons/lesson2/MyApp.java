@@ -7,5 +7,6 @@ public class MyApp {
 
         System.out.format("According to Google Maps, the Monument of Independence is located at %.15f, %.15f.", latitude, longitude);
 
+
     }
 }
