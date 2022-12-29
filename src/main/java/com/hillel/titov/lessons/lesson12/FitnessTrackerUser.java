@@ -1,12 +1,12 @@
 package com.hillel.titov.lessons.lesson12;
 
 public class FitnessTrackerUser {
-    private String name;
-    private int dayOfBirth;
-    private int monthOfBirth;
-    private int yearOfBirth;
-    private String email;
-    private String phoneNumber;
+    private final String name;
+    private final int dayOfBirth;
+    private final int monthOfBirth;
+    private final int yearOfBirth;
+    private final String email;
+    private final String phoneNumber;
     private String surname;
     private double weight;
     private String bloodPressure;
